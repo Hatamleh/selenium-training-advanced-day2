@@ -1,9 +1,7 @@
 package com.qacart.todo.testcases;
 import com.github.javafaker.Faker;
 import com.qacart.todo.base.BaseTest;
-import com.qacart.todo.factory.DriverFactory;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
